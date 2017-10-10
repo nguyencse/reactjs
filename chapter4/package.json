@@ -1,0 +1,14 @@
+{
+  "name": "chapter4",
+  "version": "1.0.0",
+  "description": "This is the simple project React of chapter4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nguyen Y Nguyen",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
